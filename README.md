@@ -5,4 +5,4 @@ It is the updated version of [**Brandon’s Pandas Tutorial**](https://www.youtu
 
 The first instance of this tutorial was delivered at PyCon 2015 in Montréal.
 
-The data for the tutorial can be downloaded from [**here**](https://drive.google.com/file/d/1NY6cmF9Shjw-dD7BD6bNmfcIVz-kQcFR/view?usp=sharing).
+The data for the tutorial can be downloaded from [**here**](https://learningimages.s3.amazonaws.com/Data%20BC/Statistical%20Modelling%20in%20Python/imdb_pandas.zip).
